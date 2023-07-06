@@ -1,2 +1,6 @@
-adu dc ne
+git clone link
+git status (ktra trangj thais file)
+git add . (them tat ca cac file )
+git commit -m "tao momment"
 
+git push origin main (push len github)
